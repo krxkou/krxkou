@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @krxkou
+- 👀 I’m interested in C# C+ PHP HTML PYTHON
